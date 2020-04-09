@@ -1,6 +1,6 @@
 # WAD-Social
-building social-networking-like web app using Laravel
-originally my web application development (WAD) course, 6th module assignment
+<b> building social-networking-like web app using Laravel \n
+originally my web application development (WAD) course, 6th module assignment </b>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
